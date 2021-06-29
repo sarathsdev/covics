@@ -1,6 +1,6 @@
 # covics
 
-Covid 19 vaccine slot availability checking application
+Covid 19 vaccine slot  checking application made with flutter for android.
 
 ## How it Works ?
 
