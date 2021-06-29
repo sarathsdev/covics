@@ -4,8 +4,8 @@ Covid 19 vaccine slot  checking application made with flutter for android.
 
 ## How it Works ?
 
-Folder Structure
- ,here is the core folder structure  which flutter provides
+
+Here is the core folder structure  which flutter provides
 
 ```bash
   one.me/
