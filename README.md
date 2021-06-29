@@ -25,8 +25,11 @@ Here is the folder structure we have been using this project
 ```
 
 
-Project demo
+Project screenshot
 
+![Screenshot_2021-06-29-18-31-54-335_com example covics 1](https://user-images.githubusercontent.com/68682390/123802936-7113fb00-d909-11eb-94f8-d15d22e5f52f.jpg)
+![Screenshot_2021-06-29-18-31-58-118_com example covics 1](https://user-images.githubusercontent.com/68682390/123803005-81c47100-d909-11eb-89c4-6b39874a1b5a.jpg)
+![Screenshot_2021-06-29-18-37-20-271_com example covics 1](https://user-images.githubusercontent.com/68682390/123803083-986ac800-d909-11eb-86e6-6205ef275c4e.jpg)
 
 
 ## Libraries used
